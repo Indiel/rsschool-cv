@@ -32,7 +32,7 @@ Aleksandra Ivanenko
 
 ---
 
-### 5. Code examples
+## 5. Code examples
 ```javascript
 var game = {
   width: 640,
@@ -131,15 +131,13 @@ var game = {
 
 ---
 
-### 6. Experience
-Viral Digital Agency
--------------------------
+## 6. Experience
+### Viral Digital Agency
 Period | 10.2018 – 04.2019
 Responsibility | Adaptive and cross-browser layout of sites according to the layout. Revitalizing pages using JavaScript.
 Technologies | HTML5, CSS3, JavaScript, jQuery, JSON, WordPress, Twig
 
-HTMLAcademy Projects
--------------------------
+### HTMLAcademy Projects
 Gllacy | https://github.com/Indiel/Gllacy
 Barbershop | https://github.com/Indiel/Barbershop
 Kekstagram | https://github.com/Indiel/613417-kekstagram
@@ -147,11 +145,11 @@ Keksobooking | https://github.com/Indiel/613417-keksobooking
 
 ---
 
-### 7. Education
+## 7. Education
 - HTMLAcademy - Professional JavaScript, Level 1 (01.2018 – 03.2018)
 - V. N. Karazin Kharkiv National University (09.2014 - 07.2018)
 
 ---
 
-### 8. English
+## 8. English
 Pre-Intermediate (A2)
