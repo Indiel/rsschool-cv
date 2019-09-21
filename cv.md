@@ -33,8 +33,6 @@ Aleksandra Ivanenko
 ---
 
 ### 5. Code examples
-<details>
-<summary>Q1: What is the best Language in the World?</summary>
 ```javascript
 var game = {
   width: 640,
@@ -130,7 +128,6 @@ var game = {
   }
 };
 ```
-</details>
 
 ---
 
