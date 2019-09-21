@@ -1,7 +1,7 @@
 # Junior Frontend Developer
 
 ## 1. Name
-Aleksandra Ivanenko
+### Aleksandra Ivanenko
 
 ---
 
@@ -136,6 +136,10 @@ var game = {
 Period | 10.2018 – 04.2019
 Responsibility | Adaptive and cross-browser layout of sites according to the layout. Revitalizing pages using JavaScript.
 Technologies | HTML5, CSS3, JavaScript, jQuery, JSON, WordPress, Twig
+
+| Period         | 10.2018 – 04.2019                                                                                        |
+| Responsibility | Adaptive and cross-browser layout of sites according to the layout. Revitalizing pages using JavaScript. |
+| Technologies   | HTML5, CSS3, JavaScript, jQuery, JSON, WordPress, Twig                                                   |
 
 ### HTMLAcademy Projects
 Gllacy | https://github.com/Indiel/Gllacy
