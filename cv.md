@@ -133,19 +133,17 @@ var game = {
 
 ## 6. Experience
 ### Viral Digital Agency
-Period | 10.2018 – 04.2019
-Responsibility | Adaptive and cross-browser layout of sites according to the layout. Revitalizing pages using JavaScript.
-Technologies | HTML5, CSS3, JavaScript, jQuery, JSON, WordPress, Twig
 
 | Period         | 10.2018 – 04.2019                                                                                        |
 | Responsibility | Adaptive and cross-browser layout of sites according to the layout. Revitalizing pages using JavaScript. |
 | Technologies   | HTML5, CSS3, JavaScript, jQuery, JSON, WordPress, Twig                                                   |
 
 ### HTMLAcademy Projects
-Gllacy | https://github.com/Indiel/Gllacy
-Barbershop | https://github.com/Indiel/Barbershop
-Kekstagram | https://github.com/Indiel/613417-kekstagram
-Keksobooking | https://github.com/Indiel/613417-keksobooking
+
+| Gllacy       | https://github.com/Indiel/Gllacy              |
+| Barbershop   | https://github.com/Indiel/Barbershop          |
+| Kekstagram   | https://github.com/Indiel/613417-kekstagram   |
+| Keksobooking | https://github.com/Indiel/613417-keksobooking |
 
 ---
 
