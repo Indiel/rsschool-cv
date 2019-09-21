@@ -1,23 +1,24 @@
 # Junior Frontend Developer
+
+## 1. Name
+Aleksandra Ivanenko
+
 ---
 
-### 1. Name
-Aleksandra Ivanenko
----
-### 2. Contact Info
+## 2. Contact Info
 - Email: ksandra.ivanenko@gmail.com
 - Telegram: [@ksandra_indiel](https://t.me/ksandra_indiel)
 - Tel: +380968604472
+
 ---
-### 3. Summary
-> I have been fond of programming for a long time. For pleasure and
-> of interest studied Java, Android programming and
-> finally web development. I am very interested in
-> training and expanding my skills because I want
-> work and develop in the field of web development.
-> I have experience in work HTML-coder. And although this experience is small, > I am ready to work a lot, diligently and constantly learn new things.
+
+## 3. Summary
+> I have been fond of programming for a long time. For pleasure and of interest studied Java, Android programming and finally web development. I am very interested in training and expanding my skills because I want work and develop in the field of web development.
+> I have experience in work HTML-coder. And although this experience is small, I am ready to work a lot, diligently and constantly learn new things.
+
 ---
-### 4. Skills
+
+## 4. Skills
 - HTML
 - CSS
 - Sass / Less
@@ -28,10 +29,12 @@ Aleksandra Ivanenko
 - Webpack
 - Git
 - Photoshop / Figma
+
 ---
+
 ### 5. Code examples
-<!-- <details>  -->
-<!-- <summary>Q1: What is the best Language in the World?</summary> -->
+<details>
+<summary>Q1: What is the best Language in the World?</summary>
 ```javascript
 var game = {
   width: 640,
@@ -127,8 +130,10 @@ var game = {
   }
 };
 ```
-<!-- </details> -->
+</details>
+
 ---
+
 ### 6. Experience
 Viral Digital Agency
 -------------------------
@@ -142,10 +147,14 @@ Gllacy | https://github.com/Indiel/Gllacy
 Barbershop | https://github.com/Indiel/Barbershop
 Kekstagram | https://github.com/Indiel/613417-kekstagram
 Keksobooking | https://github.com/Indiel/613417-keksobooking
+
 ---
+
 ### 7. Education
 - HTMLAcademy - Professional JavaScript, Level 1 (01.2018 – 03.2018)
 - V. N. Karazin Kharkiv National University (09.2014 - 07.2018)
+
 ---
+
 ### 8. English
 Pre-Intermediate (A2)
